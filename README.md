@@ -12,11 +12,11 @@ DEMO
 
 HTML: 
 
-* http://hit9.github.io/gif2txt/examples/out.html
-* http://hit9.github.io/gif2txt/examples/withcolor.html
-* http://hit9.github.io/gif2txt/examples/greenscreen.html
-* http://hit9.github.io/gif2txt/examples/reversegreenscreen.html
-* http://hit9.github.io/gif2txt/examples/pacman.html
+* [http://hit9.github.io/gif2txt/examples/out.html](examples/out.html)
+* [http://hit9.github.io/gif2txt/examples/withcolor.html](examples/withcolor.html)
+* [http://hit9.github.io/gif2txt/examples/greenscreen.html](examples/greenscreen.html)
+* [http://hit9.github.io/gif2txt/examples/reversegreenscreen.html](examples/reversegreenscreen.html)
+* [http://hit9.github.io/gif2txt/examples/pacman.html](examples/pacman.html)
 
 USAGE
 -----
